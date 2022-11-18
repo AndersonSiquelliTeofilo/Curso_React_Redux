@@ -1,0 +1,43 @@
+.Mega label {
+    margin-right: 10px;
+}
+
+.Mega input {
+    font-size: 1.4rem;
+    width: 50px;
+}
+
+.Mega ul {
+    list-style: none;
+    display: flex;
+    overflow: hidden;
+    flex-wrap: wrap;
+}
+
+.Mega ul li {
+    margin: 0px 5px;
+    padding: 5px;
+    width: 30px;
+    border-radius: 50%;
+    border: solid 2px #7b054c;
+}
+
+.Mega ul li:hover {
+    background-color: #7b054c;
+    color: #FFF;
+}
+
+.Mega button {
+    margin: 10px;
+    padding: 5px 10px;
+    font-size: 1.0rem;
+    font-weight: 800;
+    background-color: #7b054c;
+    color: #FFF;
+    border: none 0px;
+    border-radius: 1.0rem;
+}
+
+.Mega button:hover {
+    background-color: #af096d;
+}
